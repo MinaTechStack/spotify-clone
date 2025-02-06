@@ -914,6 +914,8 @@ main {
     height: 115px;
     margin-bottom: 40px;
     background-color: #121212;
+    font-weight: 700;
+    font-size: 48px;
 }
 
 .forvalidity {
@@ -1106,6 +1108,7 @@ label {
 .signup-box a p {
     color: #fff;
     font-weight: 700;
+    text-align: center;
 }
 
 .st-line {
