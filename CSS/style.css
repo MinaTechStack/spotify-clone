@@ -671,6 +671,7 @@ header {
 .cart:hover {
     background-color: #1f1f1f;
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .cart-img {
